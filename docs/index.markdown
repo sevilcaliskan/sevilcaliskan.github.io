@@ -5,5 +5,5 @@
 layout: home
 ---
 
-# Hello
+Hello
 Its sevil
